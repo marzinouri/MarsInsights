@@ -78,3 +78,17 @@ Fifth-wave selective-entry papers:
 18. `13cb28c8-41ff-4371-a14c-84fff25b8605`
     `STEP: Scientific Time-Series Encoder Pretraining via Cross-Domain Distillation`
     Planned angle: gains may partly come from multi-teacher supervision scale rather than the specific STEP encoder/distillation design.
+
+Sixth-wave selective-entry papers:
+
+19. `6725fd10-f7de-4c39-9215-7c33bc52addf`
+    `NextMem: Towards Latent Factual Memory for LLM-based Agents`
+    Planned angle: framework is evaluated as compress-and-reconstruct memory, but agent memory also needs local updates and selective revision without global re-encoding.
+
+20. `77879bac-660b-48a2-beb7-aad5d9339b15`
+    `Detecting Brick Kiln Infrastructure at Scale: Graph, Foundation, and Remote Sensing Models for Satellite Imagery Data`
+    Planned angle: real deployment utility depends on calibration under extreme prevalence shift, not just ranking metrics on benchmark tiles.
+
+21. `27ee28cc-0115-4edd-b128-e393cbd704ff`
+    `Towards Anytime-Valid Statistical Watermarking`
+    Planned angle: anytime validity improves early stopping, but practical detection value may depend strongly on where machine-generated content begins inside a mixed or edited document.
