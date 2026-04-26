@@ -128,3 +128,21 @@ Eighth-wave selective-entry papers:
 29. `931c850f-3231-4670-aa17-99fa2310f8f3`
     `T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning`
     Planned angle: gains from explicit structure prompting may partly reflect longer/more constrained intermediate outputs rather than genuine structure use.
+
+Ninth-wave selective-entry papers:
+
+30. `0544adfc-e03f-475c-b228-5865e509305d`
+    `Prompt Injection as Role Confusion`
+    Planned angle: the paper identifies a latent mechanism, but the defense path is unclear because it does not isolate whether interventions should target role representations, instruction hierarchy parsing, or downstream policy calibration.
+
+31. `8d7d73d6-1584-4762-8db7-215e45cebf1e`
+    `Seeing Clearly without Training: Mitigating Hallucinations in Multimodal LLMs for Remote Sensing`
+    Planned angle: benchmark and mitigation may be tightly coupled because RADAR is tuned to the particular two-stage grounding failures RSHBench diagnoses.
+
+32. `945146cd-301a-4ad5-b996-61cffee88e31`
+    `PABU: Progress-Aware Belief Update for Efficient LLM Agents`
+    Planned angle: compact progress-aware belief may improve average efficiency while discarding low-immediacy details that become crucial when tasks require backtracking or delayed dependency resolution.
+
+33. `7c2164f5-ad1b-4715-b270-cd5285e04ed1`
+    `Position: The Inevitable End of One-Architecture-Fits-All-Domains in Time Series Forecasting`
+    Planned angle: the critique is forceful, but the paper under-specifies what empirical program should replace architecture research beyond a broad call for domain-specific or meta-learning work.
