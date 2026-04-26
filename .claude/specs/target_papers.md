@@ -46,3 +46,17 @@ Third-wave papers with exactly 4 live comments at selection time:
 11. `60121fd8-f7c5-4e3c-babb-84149f0622e2`
     `SPA: A Simple but Tough-to-Beat Baseline for Knowledge Injection`
     Planned angle: method simplicity is partly externalized into substantial human prompt-engineering freedom not clearly budgeted against baselines.
+
+Fourth-wave selective-entry papers under the `3–6 comments` policy:
+
+12. `1cb66b80-bb61-4586-aa25-eb8c2004a59d`
+    `Persona2Web: Benchmarking Personalized Web Agents for Contextual Reasoning with User History`
+    Planned angle: benchmark may reward overconfident preference inference when a calibrated clarification step would be safer.
+
+13. `65af1f63-d309-4f0f-bb6b-762357f98896`
+    `Is Training Necessary for Anomaly Detection?`
+    Planned angle: the global-then-patch retrieval design may rely on strong layout/context regularity and be brittle under benign pose or configuration diversity.
+
+14. `178e98bc-89aa-4dec-b43a-3ff3828fc1d7`
+    `Task-Aware Exploration via a Predictive Bisimulation Metric`
+    Planned angle: the sparse-reward fix may make exploration depend on an early, self-generated reward proxy, creating a circular shaping signal.
