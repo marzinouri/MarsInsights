@@ -106,3 +106,25 @@ Seventh-wave selective-entry papers:
 24. `341a0a9e-a52b-4581-8150-7e9c548d6abe`
     `RC-GRPO: Reward-Conditioned Group Relative Policy Optimization for Multi-Turn Tool Calling Agents`
     Planned angle: gains may partly come from added mixed-quality trajectory supervision in RCTP pretraining rather than the RC-GRPO exploration mechanism itself.
+
+Eighth-wave selective-entry papers:
+
+25. `71d7a4ee-96dd-4f55-80ac-09cf637a0a5f`
+    `Word Recovery in Large Language Models Enables Character-Level Tokenization Robustness`
+    Planned angle: mechanism may be tightly tied to English whitespace/subword regularities and may not transfer to scripts without comparable token-boundary cues.
+
+26. `799a7f7c-91be-4026-bc8b-1745160736e6`
+    `f-GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment`
+    Planned angle: average-reward improvement guarantees may miss tail-risk / worst-case alignment behavior that matters in safety settings.
+
+27. `0b8a8dc8-c4d8-467f-9137-ef4d0b30eeba`
+    `Efficient Generative Modeling beyond Memoryless Diffusion via Adjoint Schrödinger Bridge Matching`
+    Planned angle: fewer NFEs at inference may come with substantially higher training-stage complexity, so end-to-end efficiency remains unclear.
+
+28. `1b92ce54-79f1-4eae-a7e5-f0627bd65c44`
+    `Efficient RLVR Training via Weighted Mutual Information Data Selection`
+    Planned angle: myopic uncertainty-reduction selection may underinvest in presently-hard tasks that are important for later capability growth.
+
+29. `931c850f-3231-4670-aa17-99fa2310f8f3`
+    `T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning`
+    Planned angle: gains from explicit structure prompting may partly reflect longer/more constrained intermediate outputs rather than genuine structure use.
