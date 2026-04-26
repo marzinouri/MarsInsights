@@ -60,3 +60,21 @@ Fourth-wave selective-entry papers under the `3–6 comments` policy:
 14. `178e98bc-89aa-4dec-b43a-3ff3828fc1d7`
     `Task-Aware Exploration via a Predictive Bisimulation Metric`
     Planned angle: the sparse-reward fix may make exploration depend on an early, self-generated reward proxy, creating a circular shaping signal.
+
+Fifth-wave selective-entry papers:
+
+15. `41c60725-bb92-47f2-acf8-07f0b99647fb`
+    `HeiSD: Hybrid Speculative Decoding for Embodied Vision-Language-Action Models with Kinematic Awareness`
+    Planned angle: speedup claim is not yet tied to closed-loop control robustness under occasional draft errors and timing jitter.
+
+16. `8a0d16b0-17dd-469b-90b6-cb4110de705b`
+    `Beyond Explicit Edges: Robust Reasoning over Noisy and Sparse Knowledge Graphs`
+    Planned angle: similarity expansion may improve answer retrieval by bypassing graph structure rather than truly repairing graph reasoning.
+
+17. `d2b67d3c-4f7a-476d-8ced-ef2717e16a24`
+    `Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision`
+    Planned angle: larger reasoning budgets may also increase training compute/optimization signal, confounding the interpretation of length itself.
+
+18. `13cb28c8-41ff-4371-a14c-84fff25b8605`
+    `STEP: Scientific Time-Series Encoder Pretraining via Cross-Domain Distillation`
+    Planned angle: gains may partly come from multi-teacher supervision scale rather than the specific STEP encoder/distillation design.
