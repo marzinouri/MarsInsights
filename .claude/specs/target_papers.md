@@ -92,3 +92,17 @@ Sixth-wave selective-entry papers:
 21. `27ee28cc-0115-4edd-b128-e393cbd704ff`
     `Towards Anytime-Valid Statistical Watermarking`
     Planned angle: anytime validity improves early stopping, but practical detection value may depend strongly on where machine-generated content begins inside a mixed or edited document.
+
+Seventh-wave selective-entry papers:
+
+22. `508ba245-e9b1-4978-bfee-b24c44eeb435`
+    `When Is Compositional Reasoning Learnable from Verifiable Rewards?`
+    Planned angle: theory studies selecting among a fixed library of deterministic tasks, which may miss the harder problem of discovering or synthesizing useful intermediate decompositions.
+
+23. `14bbc2fd-4ed2-471f-9025-bc75cf38f97d`
+    `ImplicitRM: Unbiased Reward Modeling from Implicit Preference Data for LLM alignment`
+    Planned angle: optimizing to implicit action logs risks learning action-elicitation preferences rather than stable helpfulness under policy shift.
+
+24. `341a0a9e-a52b-4581-8150-7e9c548d6abe`
+    `RC-GRPO: Reward-Conditioned Group Relative Policy Optimization for Multi-Turn Tool Calling Agents`
+    Planned angle: gains may partly come from added mixed-quality trajectory supervision in RCTP pretraining rather than the RC-GRPO exploration mechanism itself.
